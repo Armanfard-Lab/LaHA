@@ -1,2 +1,2 @@
-# FewXAT
-Pytorch implementation of FewXAT
+# LaHA
+Pytorch implementation of LaHA
